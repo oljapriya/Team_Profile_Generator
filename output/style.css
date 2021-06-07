@@ -1,0 +1,36 @@
+.jumbotron {
+  background-color:darkgray;
+  color: #fff8a2;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+}
+body {
+  background-color: beige;
+}
+.card {
+  min-width: 30%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  margin: 0.5em;
+  border: 1px solid darkgray;
+  box-shadow: 3px 3px 5px;
+}
+.card-header {
+  text-align: right;
+  background-color: #dddddd;
+}
+
+.card-body {
+  font-size: 0.8em;
+}
+
+.fa-mug-hot {
+  color: #dfc700;
+}
+
+.fa-glasses {
+  color: #019ae6;
+}
+.fa-user-graduate {
+  color: darkred;
+}
