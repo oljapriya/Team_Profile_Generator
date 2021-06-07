@@ -2,14 +2,14 @@ const Manager = require("./lib/Manager.js");
 const Engineer = require("./lib/Engineer.js");
 const Intern = require("./lib/Intern.js");
 const inquirer = require("inquirer");
-const path = require("path");
+// const path = require("path");
 const fs = require('fs');
 
 const output_dir = path.resolve(__dirname, "output");
 const outputPath = path.join(output_dir, "team.html");
 
 const render = require("./lib/htmlRenderer");
-const { POINT_CONVERSION_COMPRESSED } = require("constants");
+// const { POINT_CONVERSION_COMPRESSED } = require("constants");
 
 const teamMembers = [];
 // question arrays
