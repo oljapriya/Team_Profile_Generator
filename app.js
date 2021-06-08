@@ -125,7 +125,7 @@ function createTeam() {
       createIntern();
     } else if (response.team === "None") {
       const finalHTML = render(teamMembers)
-      fs.writeFile(outputPath, finalHTML, function (err) {
+      fs.writeFile("./output/team.html", finalHTML, function (err) {
         if (err) {
           return console.log(err);
         }
