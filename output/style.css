@@ -3,9 +3,11 @@
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 500;
-  ;
-
+  
+  
 }
+
+
 body {
   background-color:white;
 }
@@ -22,6 +24,7 @@ body {
   text-align: left;
   background-color:rgb(60, 60, 231);
   color: white;
+
 }
 
 .card-body {
