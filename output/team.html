@@ -2,20 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Team</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
-    integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css"
-  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.scc">
+  <title>My Team</title>
 </head>
 
 <body>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-12 py-5 jumbotron mb-3 team-heading">
+      <div class="col-12 jumbotron mb-3 team-heading">
         <h1 class="text-center">My Team</h1>
       </div>
     </div>
@@ -23,60 +20,7 @@
   <div class="container">
     <div class="row">
       <div class="team-area col-12 d-flex flex-wrap justify-content-center">
-        <div class="card employee-card">
-  <div class="card-header">
-    <h3 class="card-title">Olja</h3>
-    <h5 class="card-title"><i class="fas fa-coffee"></i>Manager</h5>
-  </div>
-  <div class="card-body">
-    <ul class="list-group">
-      <li class="list-group-item">ID: 12345</li>
-      <li class="list-group-item">Email: <a href="mailto:o.priya@test.com">o.priya@test.com</a></li>
-      <li class="list-group-item">Office number: 30</li>
-    </ul>
-  </div>
-</div>
-<div class="card employee-card">
-  <div class="card-header">
-    <h3 class="card-title">Alec</h3>
-    <h5 class="card-title"><i class="fas fa-glasses mr-2"></i>Engineer</h5>
-  </div>
-  <div class="card-body">
-    <ul class="list-group">
-      <li class="list-group-item">ID: 22345</li>
-      <li class="list-group-item">Email: <a href="mailto:o.priya@test.com">o.priya@test.com</a></li>
-      <li class="list-group-item">GitHub: <a href="https://github.com/oljapriya" target="_blank" rel="noopener noreferrer">OljaPriya</a></li>
-    </ul>
-  </div>
-</div>
-<div class="card employee-card">
-  <div class="card-header">
-    <h3 class="card-title">Grace</h3>
-    <h5 class="card-title">  <i class="fas fa-user-graduate mr-2"></i>Intern</h5>
-  </div>
-  <div class="card-body">
-    <ul class="list-group">
-      <li class="list-group-item">ID: 32345</li>
-      <li class="list-group-item">Email: <a href="mailto:o.priya@test.com">o.priya@test.com</a></li>
-      <li class="list-group-item">School: App Academy"</li>
-    </ul>
-  </div>
-</div>
-<div class="card employee-card">
-  <div class="card-header">
-    <h3 class="card-title">John</h3>
-    <h5 class="card-title"><i class="fas fa-user-graduate"></i>Intern</h5>
-  </div>
-  <div class="card-body">
-    <ul class="list-group">
-      <li class="list-group-item">ID: 42345</li>
-      <li class="list-group-item">Email: <a href="mailto:o.priya@test.com">o.priya@test.com</a></li>
-      <li class="list-group-item">School: App Academy"</li>
-    </ul>
-  </div>
-</div>
-
-
+        {{ team }}
       </div>
     </div>
   </div>

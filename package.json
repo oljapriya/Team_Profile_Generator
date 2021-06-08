@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/oljapriya/Team_Profile_Generator#readme",
   "dependencies": {
-    "enquirer": "^2.3.6"
+    "inquirer": "^8.1.0"
   }
 }
