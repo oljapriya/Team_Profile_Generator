@@ -15,10 +15,8 @@ This application was created to generate a team profile based on user input usin
 
 https://user-images.githubusercontent.com/79331882/121398638-907bc180-c923-11eb-8a6a-db52d73753b9.mp4
 
-
-
 </br>
-To see full video => [Video](https://drive.google.com/file/d/1xtvpZxTX1wVjdXevAn_T_nARN8h9Yekb/view)
+
 
 ## Screenshots
 ## Instalation
