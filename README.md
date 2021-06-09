@@ -11,11 +11,13 @@
 - [Questions](#questions)
 
 ## Description
-This application was created to generate a team profile based on user input using the inquirer module form Node.js and displaying the information on a newly created html page with a style sheet. This project demonstrate use of OOP and TDD using Jest.</br>
-
+This application was created to generate a team profile based on user input using the inquirer module form Node.js and displaying the information on a newly created html page with a style sheet. This project demonstrate use of OOP and TDD using Jest.
+</br>
+walkthrough video
 https://user-images.githubusercontent.com/79331882/121398638-907bc180-c923-11eb-8a6a-db52d73753b9.mp4</br>
 
-test mp4</br>
+test mp4
+</br>
 
 https://user-images.githubusercontent.com/79331882/121400946-2c0e3180-c926-11eb-8754-1697b6f81ab9.mp4
 
