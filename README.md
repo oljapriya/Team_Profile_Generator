@@ -20,6 +20,8 @@ node app.js
 ## Usage
 Use inquirer from your command line to answer questions about your project. View walk through video here - Screencastify
 ## Licence
+![badge](https://img.shields.io/badge/license-MIT-green)<br/>
+  This application is covered by the MIT license.
 
 ## Contributors
 Olja Priyakovich
