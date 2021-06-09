@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "node_modules/.bin/wdio ./wdio.conf.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
     "@wdio/mocha-framework": "^7.7.3",
     "@wdio/spec-reporter": "^7.7.3",
     "chromedriver": "^91.0.0",
+    "jest": "^27.0.4",
     "mocha": "^9.0.0",
     "wdio-chromedriver-service": "^7.1.0"
   }
