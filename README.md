@@ -16,10 +16,10 @@ This application was created to generate a team profile based on user input usin
 
 https://user-images.githubusercontent.com/79331882/121398638-907bc180-c923-11eb-8a6a-db52d73753b9.mp4
 
-test mp4
+
 </br>
 
-https://user-images.githubusercontent.com/79331882/121400946-2c0e3180-c926-11eb-8754-1697b6f81ab9.mp4
+https://drive.google.com/file/d/14d93-QQZPMVRXpnDSXKyJot87ui1Dg3r/view
 
 
 
