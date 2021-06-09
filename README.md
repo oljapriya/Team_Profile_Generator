@@ -17,7 +17,6 @@ https://user-images.githubusercontent.com/79331882/121398638-907bc180-c923-11eb-
 
 </br>
 
-
 ## Screenshots
 ## Instalation
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
