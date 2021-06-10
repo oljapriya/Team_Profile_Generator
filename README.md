@@ -42,7 +42,7 @@ Use inquirer from your command line to answer questions about your project. View
 Olja Priyakovich
 ## Test
 Run npm test to run Jest for tests on constructors.
-## Questins
+## Questions
 If you have any questions about this project please contact me directly at poljako@gmail.com
 
 
