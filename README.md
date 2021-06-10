@@ -5,7 +5,7 @@
 - [Screenshots](#screenshots)
 - [Instalation](#instalation)
 - [Usage](#usage)
-- [Licence](#license)
+- [License](#license)
 - [Contributors](#contributing)
 - [Test](#test)
 - [Questions](#questions)
@@ -34,7 +34,7 @@ The user should clone the repository from GitHub and download Node. This applica
 node app.js
 ## Usage
 Use inquirer from your command line to answer questions about your project. View walk through video here - Screencastify
-## Licence
+## License
 ![badge](https://img.shields.io/badge/license-MIT-green)<br/>
   This application is covered by the MIT license.
 
