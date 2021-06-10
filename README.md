@@ -6,7 +6,7 @@
 - [Instalation](#instalation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributors](#contributing)
+- [Contributors](#contributors)
 - [Test](#test)
 - [Questions](#questions)
 
