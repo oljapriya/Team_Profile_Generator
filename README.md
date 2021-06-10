@@ -3,7 +3,7 @@
 
 - [Description](#description)
 - [Screenshots](#screenshots)
-- [Instalation](#installation)
+- [Instalation](#instalation)
 - [Usage](#usage)
 - [Licence](#license)
 - [Contributors](#contributing)
